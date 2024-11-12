@@ -8,7 +8,7 @@
 - 👯 I’m looking to collaborate on software development projects, especially involving MERN stack, Java applications, or web development.
 - 🤔 I’m looking for help with advanced AWS concepts and optimizing my portfolio for roles in software development.
 - 💬 Ask me about Java, Python, full-stack development, data structures, and web development.
-- 📫 How to reach me: [Contact details based on your preference].
+- 📫 How to reach me: shrutikalondhe15@gmail.com
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I love coding and traveling!
 
