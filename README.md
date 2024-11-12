@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 <h1 align="center">Hi 👋, I'm Shrutika</h1>
 <h3 align="center">Passionate Software Developer | Specializing in Java, React, MySQL, and Python | AWS & MERN Stack Enthusiast</h3>
