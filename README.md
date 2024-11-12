@@ -11,8 +11,7 @@
 - 📫 How to reach me: shrutikalondhe15@gmail.com
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I love coding and traveling!
-
-<h3 align="left">Connect with me:</h3>
+  
 <p align="left">
 </p>
 
