@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <h1 align="center">Hi 👋, I'm Shrutika</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">Passionate Software Developer | Specializing in Java, React, MySQL, and Python | AWS & MERN Stack Enthusiast</h3>
 
 - 🔭 I’m currently working on an Alumni website, an educational academic diary using React, Java, and MySQL, and a webpage with interactive navigation.
 - 🌱 I’m currently learning AWS and enhancing my skills in Java and data analysis.
